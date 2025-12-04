@@ -1,45 +1,69 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
-		"favicon": "favicon.ico"
+		"title": "Hoochanlon的个人主页",
+		"description": "Hoochanlon-个人主页",
+		"favicon": "assets/favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "Hoochanlon",
+		"subtitle": "怎么先炽热的却先变冷了，慢热却先停不了还在沸腾着...",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
-		"signature": "Code & Input & Output",
+		"name": "Hoochanlon",
+		"signature": "大多数",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
 			"width": "100"
 		},
-		"ul": {
-			"first": {
-				"href": "blog/",
+		"ul": [
+			{
+				"href": "https://hoochanlon.github.io",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
-			"second": {
-				"href": "about/",
+			{
+				"href": "https://hoochanlon.github.io/hoochanlon",
 				"icon": "xiaolian",
 				"text": "About"
 			},
-			"third": {
-				"href": "mailto:hi@simonaking.com",
+			{
+				"href": "mailto:hoochanlon@email.com",
 				"icon": "email",
 				"text": "Email"
 			},
-			"fourth": {
-				"href": "https://github.com/SimonAKing",
+			{
+				"href": "https://github.com/hoochanlon",
 				"icon": "github",
 				"text": "Github"
+			},
+			{
+				"href": "https://tools.hoochanlon.moe",
+				"icon": "tools-hardware",
+				"text": "Tools",
+				"target": "_blank"
+			},
+			{
+				"href": "https://hoochanlon.github.io/todo",
+				"icon": "todo",
+				"text": "Todo",
+				"target": "_blank"
+			},
+			{
+				"href": "https://hoochanlon.github.io/calendar",
+				"icon": "rili",
+				"text": "Calendar",
+				"target": "_blank"
+			},
+			{
+				"href": "https://hoochanlon.github.io/tomato",
+				"icon": "tomato",
+				"text": "Tomato",
+				"target": "_blank"				
 			}
-		}
+		]
 	}
 }
